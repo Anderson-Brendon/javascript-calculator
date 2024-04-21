@@ -1,0 +1,1 @@
+Calculadora em vanilla javascript, tentei fazer o mais simples possível
